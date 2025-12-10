@@ -11,18 +11,18 @@ These writeups serve as a record of my learning and demonstrate my understanding
 
 ## Wargames Covered
 
-- [Bandit](bandit/README.md) – Learn Linux fundamentals, file permissions, and command-line tools.  
-- [Natas](natas/README.md) – Explore web security basics and common web vulnerabilities.  
-- [Leviathan](leviathan/README.md) – Practice simple reverse engineering and privilege escalation.  
-- [Krypton](krypton/README.md) – Solve cryptography challenges using classical ciphers and analysis.  
-- [Narnia](narnia/README.md) – Introduction to binary exploitation and memory safety concepts.  
-- [Behemoth](behemoth/README.md) – Intermediate binary exploitation and debugging challenges.  
-- [Utumno](utumno/README.md) – Advanced binary exploitation and heap/memory manipulation.  
-- [Maze](maze/README.md) – Complex reverse engineering and program flow analysis challenges.  
-- [Vortex](vortex/README.md) – Networking-focused exploitation and memory vulnerability exercises.  
-- [Manpage](manpage/README.md) – Learn Linux command-line tools through man page puzzles.  
-- [Drifter](drifter/README.md) – Network traffic analysis and protocol interpretation challenges.  
-- [FormulaOne](formulaone/README.md) – Advanced problem-solving and logic-based cybersecurity puzzles.  
+- [Bandit](Bandit/README.md) – Learn Linux fundamentals, file permissions, and command-line tools.  
+- [Natas](Natas/README.md) – Explore web security basics and common web vulnerabilities.  
+- [Leviathan](Leviathan/README.md) – Practice simple reverse engineering and privilege escalation.  
+- [Krypton](Krypton/README.md) – Solve cryptography challenges using classical ciphers and analysis.  
+- [Narnia](Narnia/README.md) – Introduction to binary exploitation and memory safety concepts.  
+- [Behemoth](Behemoth/README.md) – Intermediate binary exploitation and debugging challenges.  
+- [Utumno](Utumno/README.md) – Advanced binary exploitation and heap/memory manipulation.  
+- [Maze](Maze/README.md) – Complex reverse engineering and program flow analysis challenges.  
+- [Vortex](Vortex/README.md) – Networking-focused exploitation and memory vulnerability exercises.  
+- [Manpage](Manpage/README.md) – Learn Linux command-line tools through man page puzzles.  
+- [Drifter](Drifter/README.md) – Network traffic analysis and protocol interpretation challenges.  
+- [FormulaOne](Formulaone/README.md) – Advanced problem-solving and logic-based cybersecurity puzzles.  
 
 ---
 
