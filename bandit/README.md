@@ -1,4 +1,4 @@
-# bandit
+# Bandit
 
 This folder contains learning summaries for the bandit wargame from OverTheWire.  
 The purpose is to document concepts, approaches, tools, and techniques explored while completing the challenges.  
