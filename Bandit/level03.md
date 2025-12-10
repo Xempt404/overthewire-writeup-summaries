@@ -15,4 +15,4 @@ The password for the next level is stored in a hidden file in the **inhere** dir
 4. Used `cat ...Hiding-From-You` to view the contents.
 
 ## Summary
-This level introduces how to find hidden folders in Linux.
+This level introduces how to handle hidden files in Linux.
