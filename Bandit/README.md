@@ -7,6 +7,7 @@ Each `levelXX.md` file provides a summary of the lessons learned in that level, 
 ## Levels Completed
 - [Level 0](level00.md) – SSH to access the remote environment.
 - [Level 1](level01.md) – Basic file discovery and file-reading.
+- [Level 2](level02.md) - Handle files with special characters.
 
 ## Notes
 - Passwords and sensitive data are never included.  
