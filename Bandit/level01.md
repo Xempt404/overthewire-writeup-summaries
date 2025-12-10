@@ -1,16 +1,18 @@
 # Bandit Level 1
 
 ## Level Goal
-The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
+The password for the next level is stored in a file called `-` located in the home directory
 
 ## Commands Used
+- cd
+- pwd
 - ls
 - cat
 
 ## Steps
-1. Listed the contents of the home directory to identify available files.
-2. Saw a file named `readme`.
-3. Used `cat` to view the contents of the `readme` file.
+1. Ensured I was in the home directory using `cd ~` and confirmed with `pwd`.
+2. Listed the files with `ls` and found a file named `-`.
+3. Used `cat ./-` to view the contents. The `./` is necessary because `-` would otherwise be interpreted as an option by `cat`.
 
 ## Summary
-This level introduces basic file discovery and file-reading commands in Linux.
+This level introduces how to handle files with special characters in Linux, which might be mistaken for command options.

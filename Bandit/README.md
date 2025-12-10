@@ -5,10 +5,9 @@ This folder contains learning summaries for the Bandit wargame from OverTheWire.
 Each `levelXX.md` file provides a summary of the lessons learned in that level, including the commands used and high-level steps taken.
 
 ## Levels Completed
-- [Level 0](level00.md) – SSH to access the remote environment.
-- [Level 1](level01.md) – Basic file discovery and file-reading.
-- [Level 2](level02.md) - Handle files with special characters.
-
+- [Level 0](level00.md) – Basic file discovery and file-reading.
+- [Level 1](level01.md) - Handle files with special characters.
+- [Level 2](level02.md) - Handle filenames including spaces in Linux.
 ## Notes
 - Passwords and sensitive data are never included.  
 - Commands listed are general exploration commands; no direct solutions are provided.  
