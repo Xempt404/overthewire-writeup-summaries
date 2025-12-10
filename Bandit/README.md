@@ -11,6 +11,7 @@ Each `levelXX.md` file provides a summary of the lessons learned in that level, 
 - [Level 3](level03.md) - Handle hidden files.
 - [Level 4](level04.md) - Examine a filetype from its contents.
 - [Level 5](level05.md) - Filtering files by size and permissions.
+- [Level 6](level06.md) - Filtering files by user/group ownership.
 
 ## Notes
 - Passwords and sensitive data are never included.  
