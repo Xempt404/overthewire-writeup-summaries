@@ -7,9 +7,10 @@ Each `levelXX.md` file provides a summary of the lessons learned in that level, 
 ## Levels Completed
 - [Level 0](level00.md) – Basic file discovery and file-reading.
 - [Level 1](level01.md) - Handle files with special characters.
-- [Level 2](level02.md) - Handle filenames including spaces in Linux.
-- [Level 3](level03.md) - Handle hidden files in Linux.
+- [Level 2](level02.md) - Handle filenames including spaces.
+- [Level 3](level03.md) - Handle hidden files.
 - [Level 4](level04.md) - Examine a filetype from its contents.
+- [Level 5](level05.md) - Filtering files by size and permissions.
 
 ## Notes
 - Passwords and sensitive data are never included.  
