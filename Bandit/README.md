@@ -15,6 +15,8 @@ Each `levelXX.md` file provides a summary of the lessons learned in that level, 
 - [Level 8](level08.md) - Searching for patterns in files.
 - [Level 9](level09.md) - Sorting data and filtering adjacent lines.
 - [Level 10](level10.md) - Extracting and printing strings.
+- [Level 11](level11.md) - Base64 encoding and decoding.
+- [Level 12](level12.md) - Translating characters.
 
 ## Notes
 - Passwords and sensitive data are never included.  
