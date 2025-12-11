@@ -12,6 +12,8 @@ Each `levelXX.md` file provides a summary of the lessons learned in that level, 
 - [Level 4](level04.md) - Examine a filetype from its contents.
 - [Level 5](level05.md) - Filtering files by size and permissions.
 - [Level 6](level06.md) - Filtering files by user/group ownership.
+- [Level 7](level07.md) - Searching for patterns in files.
+- [Level 8](level08.md) - Sorting data and filtering adjacent lines.
 
 ## Notes
 - Passwords and sensitive data are never included.  
