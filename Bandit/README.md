@@ -5,15 +5,16 @@ This folder contains learning summaries for the Bandit wargame from OverTheWire.
 Each `levelXX.md` file provides a summary of the lessons learned in that level, including the commands used and high-level steps taken.
 
 ## Levels Completed
-- [Level 0](level00.md) – Basic file discovery and file-reading.
-- [Level 1](level01.md) - Handle files with special characters.
-- [Level 2](level02.md) - Handle filenames including spaces.
-- [Level 3](level03.md) - Handle hidden files.
-- [Level 4](level04.md) - Examine a filetype from its contents.
-- [Level 5](level05.md) - Filtering files by size and permissions.
-- [Level 6](level06.md) - Filtering files by user/group ownership.
-- [Level 7](level07.md) - Searching for patterns in files.
-- [Level 8](level08.md) - Sorting data and filtering adjacent lines.
+- [Level 1](level01.md) – Basic file discovery and file-reading.
+- [Level 2](level02.md) - Handle files with special characters.
+- [Level 3](level03.md) - Handle filenames including spaces.
+- [Level 4](level04.md) - Handle hidden files.
+- [Level 5](level05.md) - Examine a filetype from its contents.
+- [Level 6](level06.md) - Filtering files by size and permissions.
+- [Level 7](level07.md) - Filtering files by user/group ownership.
+- [Level 8](level08.md) - Searching for patterns in files.
+- [Level 9](level09.md) - Sorting data and filtering adjacent lines.
+- [Level 10](level10.md) - Extracting and printing strings.
 
 ## Notes
 - Passwords and sensitive data are never included.  

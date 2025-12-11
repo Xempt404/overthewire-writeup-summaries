@@ -1,16 +1,18 @@
 # Bandit Level 7
 
 ## Level Goal
-The password for the next level is stored in the file `data.txt` next to the word `millionth`
+The password for the next level is stored somewhere on the server and has all of the following properties:
+- owned by user bandit7
+- owned by group bandit6
+- 33 bytes in size
 
 ## Commands Used
-- ls
+- find
 - cat
-- grep
 
 ## Steps
-1. Used `ls` to list files.
-2. Used `cat data.txt | grep millionth` to find the line with the word `millionth`. `grep` is used to search for text that match a regular expression.
+1. Used `find / -type f -size 33c -user bandit7 -group bandit6` to recursively search from the root for files with a specific size and user/group ownership. Found a single file `/var/lib/dpkg/info/bandit7.password`. Optional to use `2>/dev/null` to suppress permission denied errors.
+2.  Used  `cat /var/lib/dpkg/info/bandit7.password` to view the contents.
 
 ## Summary
-This level introduces searching for patterns in files.
+This level introduces filtering files by user/group ownership.

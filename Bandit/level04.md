@@ -1,20 +1,18 @@
 # Bandit Level 4
 
 ## Level Goal
-The password for the next level is stored in the only human-readable file in the `inhere` directory. Tip: if your terminal is messed up, try the “reset” command.
+The password for the next level is stored in a hidden file in the `inhere` directory.
 
 ## Commands Used
 - ls
 - cd
-- file
 - cat
 
 ## Steps
 1. Listed the folders with `ls` and found a folder named `inhere`.
 2. Used `cd inhere` to change current directory to the folder. 
-3. Used `ls` to list files and found 10 files `-file00` to `-file09`.
-4. Used `file ./*` to data types in current directory and found `-file07` was ASCII text.
-5. Used `cat ./-file07` to view the contents.
+3. Used `ls -a` to list all files and found `...Hiding-From-You`. The `-a` flag is necessary to show all files including hidden files.
+4. Used `cat ...Hiding-From-You` to view the contents.
 
 ## Summary
-This level introduces how to examine a filetype from its contents.
+This level introduces how to handle hidden files in Linux.

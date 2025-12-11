@@ -1,23 +1,20 @@
 # Bandit Level 5
 
 ## Level Goal
-The password for the next level is stored in a file somewhere under the `inhere` directory and has all of the following properties:
-- human-readable
-- 1033 bytes in size
-- not executable
-
+The password for the next level is stored in the only human-readable file in the `inhere` directory. Tip: if your terminal is messed up, try the “reset” command.
 
 ## Commands Used
 - ls
 - cd
-- ls
 - file
+- cat
 
 ## Steps
 1. Listed the folders with `ls` and found a folder named `inhere`.
 2. Used `cd inhere` to change current directory to the folder. 
-3. Used `ls -la` to list everything and found 20 folders.
-4. Used `find . -type f -size 1033c ! -perm /111` to recursively search and find the file. `-type f` was used to filter for files only, `-size 1033c` was used to only display files 1033 bytes in size and `! -perm /111` was used to exclude files with any executable permission bit set.
+3. Used `ls` to list files and found 10 files `-file00` to `-file09`.
+4. Used `file ./*` to data types in current directory and found `-file07` was ASCII text.
+5. Used `cat ./-file07` to view the contents.
 
 ## Summary
-This level introduces filtering files by size and permissions.
+This level introduces how to examine a filetype from its contents.
