@@ -19,9 +19,12 @@ Each `levelXX.md` file provides a summary of the lessons learned in that level, 
 - [Level 12](level12.md) - Translating characters.
 - [Level 13](level13.md) - Hexdumps, identifying file types and handling multiple compression formats.
 - [Level 14](level14.md) - SSH key-based authentication.
-- [Level 15](level14.md) - Transmitting input through netcat.
-- [Level 16](level14.md) - Transmitting input through netcat with SSL encryption.
-- [Level 17](level14.md) - Nmap host and service scanning.
+- [Level 15](level15.md) - Transmitting input through netcat.
+- [Level 16](level16.md) - Transmitting input through netcat with SSL encryption.
+- [Level 17](level17.md) - Nmap host and service scanning.
+- [Level 18](level18.md) - Comparing changes in files.
+- [Level 19](level19.md) - Running commands on a remote server via SSH without opening a terminal.
+- [Level 20](level20.md) - Setuid binaries.
 
 ## Notes
 - Passwords and sensitive data are never included.  
