@@ -25,6 +25,9 @@ Each `levelXX.md` file provides a summary of the lessons learned in that level, 
 - [Level 18](level18.md) - Comparing changes in files.
 - [Level 19](level19.md) - Running commands on a remote server via SSH without opening a terminal.
 - [Level 20](level20.md) - Setuid binaries.
+- [Level 21](level21.md) - Using netcat to interact with a setuid binary
+- [Level 22](level22.md) - Inspecting cron jobs in linux
+- [Level 23](level23.md) - Variables and hashing in cron jobs
 
 ## Notes
 - Passwords and sensitive data are never included.  
