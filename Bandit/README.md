@@ -31,6 +31,9 @@ Each `levelXX.md` file provides a summary of the lessons learned in that level, 
 - [Level 24](level24.md) - Running cron scripts as other users.
 - [Level 25](level25.md) - Brute‑forcing a network daemon.
 - [Level 26](level26.md) - Escaping restricted shells.
+- [Level 27](level27.md) - Escaping restricted shells (continued).
+- [Level 28](level28.md) - Cloning GitHub repositories through SSH.
+- [Level 29](level29.md) - Recovering sensitive info from git history.
 
 ## Notes
 - Passwords and sensitive data are never included.  
