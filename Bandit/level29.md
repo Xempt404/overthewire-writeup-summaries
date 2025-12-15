@@ -19,4 +19,4 @@ There is a git repository at ssh://bandit28-git@bandit.labs.overthewire.org/home
 6. Investigated with `git show b0354c7` and found the password.
 
 ## Summary
-This level introduces recovering sensitive info from git history.
+This level introduces recovering sensitive info from Git history.

@@ -33,7 +33,8 @@ Each `levelXX.md` file provides a summary of the lessons learned in that level, 
 - [Level 26](level26.md) - Escaping restricted shells.
 - [Level 27](level27.md) - Escaping restricted shells (continued).
 - [Level 28](level28.md) - Cloning GitHub repositories through SSH.
-- [Level 29](level29.md) - Recovering sensitive info from git history.
+- [Level 29](level29.md) - Recovering sensitive info from Git history.
+- [Level 30](level30.md) - Recovering sensitive info from Git branches.
 
 ## Notes
 - Passwords and sensitive data are never included.  
