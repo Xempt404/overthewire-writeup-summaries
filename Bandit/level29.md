@@ -12,7 +12,7 @@ There is a git repository at ssh://bandit28-git@bandit.labs.overthewire.org/home
 
 ## Steps
 1. Created new directory `mkdir temp` and navigated to it.
-2. Clone repo with `git clone ssh://bandit27-git@bandit.labs.overthewire.org:2220/home/bandit27-git/repo`.
+2. Clone repo with `git clone ssh://bandit28-git@bandit.labs.overthewire.org:2220/home/bandit28-git/repo`.
 3. Ran `cd repo` and `ls` to list files.
 4. Read only file present `cat README.md` and found credentials with password censored.
 5. Ran `git log` to check for previous commits and found `b0354c7 fix info leak`.

@@ -4,7 +4,10 @@
 Good job getting a shell! Now hurry and grab the password for bandit27!
 
 ## Commands Used
--
+- vi
+- shell
+- ls
+- cat
 
 ## Steps
 1. Logged into bandit26 and resized  terminal vertical length so `more` wouldn't exit instantly.
