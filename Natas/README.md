@@ -6,8 +6,13 @@ Each `levelXX.md` file provides a summary of the lessons learned in that level, 
 
 ## Levels Completed
 - [Level 0](level00.md) – Viewing page source to find hidden information.
-- [Level 1](level01.md) – Bypassing client-side restrictions such as disabled right‑click.
+- [Level 1](level01.md) – Bypassing client-side restrictions.
 - [Level 2](level02.md) – Exploring hidden files to find sensitive information.
+- [Level 3](level03.md) – Discovering hidden directories using robots.txt
+- [Level 4](level04.md) – Spoofing the HTTP `Referer` header to bypass access restrictions.
+- [Level 5](level05.md) – Cookie tampering to gain unauthorized access.
+- [Level 6](level06.md) – Extracting a secret key from the source code.
+- [Level 7](level07.md) – Local File Inclusion (LFI) vulnerability.
 
 ## Notes
 - Passwords and sensitive data are never included.  
