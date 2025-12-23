@@ -13,6 +13,10 @@ Each `levelXX.md` file provides a summary of the lessons learned in that level, 
 - [Level 5](level05.md) – Cookie tampering to gain unauthorized access.
 - [Level 6](level06.md) – Extracting a secret key from the source code.
 - [Level 7](level07.md) – Local File Inclusion (LFI) vulnerability.
+- [Level 8](level08.md) – Base64 encoding, string reversal, and hex encoding.
+- [Level 9](level09.md) – Command injection attacks.
+- [Level 10](level10.md) – Argument injection attacks.
+- [Level 11](level11.md) – XOR encryption.
 
 ## Notes
 - Passwords and sensitive data are never included.  
